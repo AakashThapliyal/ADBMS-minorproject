@@ -1,7 +1,7 @@
 # ADBMS-minorproject
 Registration page using html,css,mysadmin(xamp).
 This project aims to create a simple registration form using HTML for the frontend, PHP for server-side processing, and MySQL for database management. The registration form allows users to enter their personal details, which are then stored in a MySQL database using XAMPP as the server environment.
-steps to run the code:
+steps to run the project :
 step 1: Download the files index.html,styles.css and submit.php into your system 
 step 2: Download and install XAMPP form:  https://www.apachefriends.org/download.html
 step 3: save the files in this path in your system: C:\xampp\htdocs\folder
